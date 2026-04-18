@@ -1,7 +1,7 @@
-#Team details
-K.Aniketh
-A.Vigneshwar reddy
-CH.Ramu
+# Team details
+## K.Aniketh
+## A.Vigneshwar reddy
+## CH.Ramu
 
 # HERCULES: Hierarchical Embedding-based Recursive Clustering Using LLMs for Efficient Summarization
 
