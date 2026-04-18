@@ -1,3 +1,8 @@
+#Team details
+K.Aniketh
+A.Vigneshwar reddy
+CH.Ramu
+
 # HERCULES: Hierarchical Embedding-based Recursive Clustering Using LLMs for Efficient Summarization
 
 HERCULES is an advanced document summarization system that uses semantic clustering to break down large texts into distinct topic groups before generating a comprehensive hierarchical summary.
